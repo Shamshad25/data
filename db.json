@@ -96,7 +96,7 @@
       "invoice_no": "Invoice - 1212121",
       "invoice_date": "7/5/2024"
       },
-        {
+      {
       "customer_id": 12919,
       "items": [
           {
@@ -109,7 +109,7 @@
       "invoice_no": "Invoice - 12122222",
       "invoice_date": "8/5/2024"
       },
-        {
+      {
       "customer_id": 11909,
       "items": [
           {
@@ -134,6 +134,6 @@
       "paid": true,
       "invoice_no": "Invoice - 1212543",
       "invoice_date": "10/5/2024"
-      },
+      }
     ]
   }
